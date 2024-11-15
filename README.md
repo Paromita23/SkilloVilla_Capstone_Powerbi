@@ -21,3 +21,10 @@ Instruction to submit the capstone
 1. PowerBI Dashboard (PBIX File): Provide the Power BI dashboard in a PBIX file format. Create a Power BI dashboard in a single sheet that includes all the charts for the given 8 questions. The file should contain all necessary visualizations, slicers, and data connections for the analysis.
 2. Dashboard Report (DOC File): Create a detailed report document in DOC format that explains the dashboard comprehensively. Include screenshots or images of the dashboard visuals in the document for a clear representation. For each question/task outlined in the Power BI Capstone Project, include a section with the following details:
 Question Statement: State the question/task. Visualization: Include an image of the corresponding visualization(s) in the dashboard. Explanation: Provide a clear and concise explanation of the visual,highlighting key insights and findings. Ensure the document is organized, with each section corresponding to a specific question or aspect of the dashboard
+
+
+DASHBOARD
+![Screenshot 2024-11-15 170332](https://github.com/user-attachments/assets/63e9fc3b-e301-424a-86bf-61bf913f5ae5)
+
+TABLES
+![Screenshot 2024-11-15 170311](https://github.com/user-attachments/assets/61deac20-7b80-4f8e-804f-19594950ceeb)
